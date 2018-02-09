@@ -1,0 +1,90 @@
+div{
+	font-family: 'Muli', sans-serif;
+}
+
+#body_landing{
+	background-image: url("https://static.pexels.com/photos/459225/pexels-photo-459225.jpeg");
+	background-attachment: fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+
+}
+
+.vision{
+	background-image: url("https://static.pexels.com/photos/158607/cairn-fog-mystical-background-158607.jpeg");
+	background-attachment: fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+#section1{
+
+	width: 250px;
+	
+}
+
+#section2{
+
+	padding-top: 100px;
+	opacity: .9;
+	width: 250px;
+}
+
+#section3{
+
+	padding-top: 200px;
+	opacity: .9;
+	width: 300px;
+}
+
+#section4{
+	padding-top: 100px;
+	opacity: .9;
+	width: 300px;
+
+}
+
+#vision-text{
+	color:black;
+	padding: 5px;
+}
+
+.card{
+	color:#fff !important; background-color:#325c81 !important;
+
+}
+
+#vision-card{
+	padding: 10px;
+	color:#fff !important; background-color:#00654a !important
+}
+
+#vision-card-title{
+	color:#000 !important; background-color:#10ffbf !important
+}
+
+#vision{
+	color:#000 !important; background-color:#92b6d5 !important;
+}
+
+#people{
+	color:#000 !important; background-color:#92b6d5 !important;
+}
+
+#service{
+	color:#000 !important; background-color:#92b6d5 !important;
+}
+
+/*
+
+color:#000 !important; background-color:#92b6d5 !important;
+	color:#fff !important; background-color:#77a3ca !important;
+	color:#fff !important; background-color:#325c81 !important;
+*/
+
