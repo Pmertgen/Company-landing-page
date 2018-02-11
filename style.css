@@ -10,7 +10,15 @@ div{
 	-o-background-size: cover;
 	background-size: cover;
 	
+}
 
+#body_people{
+	background-image: url("https://static.pexels.com/photos/207896/pexels-photo-207896.jpeg");
+	background-attachment: fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 .vision{
