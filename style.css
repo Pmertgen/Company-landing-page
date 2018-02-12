@@ -58,6 +58,13 @@ div{
 
 }
 
+#sectionpeople{
+	padding-top: 100px;
+	opacity: .9;
+	width: 300px;
+
+}
+
 #vision-text{
 	color:black;
 	padding: 5px;
@@ -89,6 +96,7 @@ div{
 	color:#000 !important; background-color:#92b6d5 !important;
 }
 
+#card-people{}
 /*
 
 color:#000 !important; background-color:#92b6d5 !important;
